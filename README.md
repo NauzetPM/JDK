@@ -31,5 +31,5 @@ openjdk-8-jdk![5](https://user-images.githubusercontent.com/91209288/134735981-1
 6ºVerificamos que versión es la que tenemos en este caso la 8 que es la que utilizaremos
 con el comando:java --version![6](https://user-images.githubusercontent.com/91209288/134736019-10f1305d-e99c-4069-b70b-21d80bb11b2a.PNG)
 
-a
-a
+
+
